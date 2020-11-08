@@ -100,8 +100,6 @@ public class DrawCase extends JPanel {
 				}
 			}
 
-<<<<<<< HEAD:src/view/DrawCase.java
-=======
 			// ARRONDIE LES COINS
 			// if(cases.getMurs()[0] && cases.getMurs()[1]){
 			// 	// DESSINE ROND COIN HAUT DROITE
@@ -117,7 +115,6 @@ public class DrawCase extends JPanel {
 			// if(cases.getMurs()[3] && cases.getMurs()[0]){
 			// 	// DESSINE ROND COIN HAUT GAUCHE
 			// }
->>>>>>> 7fb90ab6417cd57afe429a0e8cbab1812e170498:DrawCase.java
 		}
 		
 		this.repaint();

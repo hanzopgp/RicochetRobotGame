@@ -32,8 +32,7 @@ public class AlgoritmA {
 	} 
 	
 	//METHODES
-	
-<<<<<<< HEAD:src/solver/AlgoritmA.java
+
 	/**
 	 * AFFICHAGE DE NOMBRE SUIVANT LA PROFONDEUR DES COUPS
 	 * @param c la case cible
@@ -42,8 +41,6 @@ public class AlgoritmA {
 	 * @throws Exception de la fonction getCase();
 	 */
 
-=======
->>>>>>> 7fb90ab6417cd57afe429a0e8cbab1812e170498:AlgoritmA.java
 	private void putNb(Case c, int nb, String dir) throws Exception {
 	boolean stop = false;
 	int x = c.getPosition()[0];

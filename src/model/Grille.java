@@ -7,12 +7,6 @@ import controller.*;
 import solver.*;
 
 public class Grille implements Cloneable {
-
-<<<<<<< HEAD:src/model/Grille.java
-=======
-public class Grille {
-
->>>>>>> 7fb90ab6417cd57afe429a0e8cbab1812e170498:Grille.java
 	// ATTRIBUTS
 	protected Case [][] grille;
 	private int [][] carre;

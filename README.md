@@ -1,10 +1,11 @@
 # RicochetRobotGame
 
-1. [Authors](#authors-)
-2. [How to use](#how-to-use-)
-3. [How to play](#how-to-play-)
-4. [Details](#details-)
-5. [Links](#links-)
+1. [Presentation](#presentation-)
+2. [Authors](#authors-)
+3. [How to use](#how-to-use-)
+4. [How to play](#how-to-play-)
+5. [Details](#details-)
+6. [Links](#links-)
 
 ## Authors :
 

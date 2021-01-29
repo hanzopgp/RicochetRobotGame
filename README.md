@@ -11,6 +11,11 @@
 - Durand Enzo 21510242
 - Hugo Tiem 21810620
 
+## Presentation :
+
+Ricochet Robot clone, with a GUI, MVC architecture and a solver.<br>
+3rd year BSC degree in computer science, mark : 18/20.
+
 ## How to use :
 
 - Execute : ``java -jar dist/RicochetRobot.jar``

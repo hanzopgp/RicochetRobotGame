@@ -17,7 +17,7 @@
 <p align="center"><img src="img.png"></p>
 
 Ricochet Robot clone, with a GUI, MVC architecture and a solver.<br>
-3rd year BSC degree in computer science, mark : 18/20.
+3rd year BSC degree in computer science, mark : 19/20.
 
 ## How to use :
 

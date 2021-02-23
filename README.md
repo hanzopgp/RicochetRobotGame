@@ -33,8 +33,8 @@ Ricochet Robot clone, with a GUI, MVC architecture and a solver.<br>
 ## Details :
 
 - Implementation of MVC
-- Implementation of A* algorithm not optimised
-- Implementation of DFS not optimised
+- Implementation of A*
+- Implementation of DFS
 
 ## Links :
 
